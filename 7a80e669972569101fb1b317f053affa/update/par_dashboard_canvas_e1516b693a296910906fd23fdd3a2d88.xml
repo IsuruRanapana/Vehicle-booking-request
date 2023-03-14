@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Vehicle Booking Management">61516b69df2969105d9a1b5401dd8283</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 09:54:57</sys_created_on>
+        <sys_id>e1516b693a296910906fd23fdd3a2d88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>par_dashboard_canvas_e1516b693a296910906fd23fdd3a2d88</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 09:54:57</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

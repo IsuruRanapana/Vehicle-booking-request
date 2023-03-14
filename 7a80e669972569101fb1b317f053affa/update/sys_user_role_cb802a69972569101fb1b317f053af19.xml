@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_979268_vehicle_0.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 05:11:53</sys_created_on>
+        <sys_id>cb802a69972569101fb1b317f053af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_979268_vehicle_0.admin</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>sys_user_role_cb802a69972569101fb1b317f053af19</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 05:11:53</sys_updated_on>
+    </sys_user_role>
+</record_update>

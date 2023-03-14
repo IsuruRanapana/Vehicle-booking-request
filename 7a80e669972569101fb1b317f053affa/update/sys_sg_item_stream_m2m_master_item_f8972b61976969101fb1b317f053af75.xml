@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="34972b61976969101fb1b317f053af6e Item Stream">b0972b61976969101fb1b317f053af73</item_stream>
+        <master_item display_value="Vehicle Booking Requests Form Screen Master Item">f8972b61976969101fb1b317f053af74</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 10:22:12</sys_created_on>
+        <sys_id>f8972b61976969101fb1b317f053af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_f8972b61976969101fb1b317f053af75</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 10:22:12</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

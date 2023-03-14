@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Vehicle Booking Portal">409f1be587296910c92bf1da1dfa263c</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">c49f1be50a2969103754b2aa79df7347</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-13 09:47:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>449f1be5ba2969106d6305197341e03e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>sys_ux_page_property_449f1be5ba2969106d6305197341e03e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-13 09:47:14</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_979268_vehicle_0.409f1be587296910c92bf1da1dfa263c.route.chrome_header.c49f1be50a2969103754b2aa79df7347</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=449f1be5ba2969106d6305197341e03e"/>
+</record_update>

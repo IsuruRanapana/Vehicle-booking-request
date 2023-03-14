@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <name>Vehicle Booking Management</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 09:54:58</sys_created_on>
+        <sys_id>61516b69df2969105d9a1b5401dd8283</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Booking Management</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>par_dashboard_61516b69df2969105d9a1b5401dd8283</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 09:54:58</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+</record_update>

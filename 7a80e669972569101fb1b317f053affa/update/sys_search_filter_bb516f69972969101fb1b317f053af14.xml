@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Vehicle">a7516f69972969101fb1b317f053af0f</ais_search_source>
+        <label>Vehicle</label>
+        <name>Vehicle</name>
+        <order>200</order>
+        <search_context_config display_value="Vehicle Booking Management AI Search Configuration">29516b69a3296910da971dca00a8ed84</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 09:55:06</sys_created_on>
+        <sys_id>bb516f69972969101fb1b317f053af14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>sys_search_filter_bb516f69972969101fb1b317f053af14</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 09:55:06</sys_updated_on>
+    </sys_search_filter>
+</record_update>

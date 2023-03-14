@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="Isuru Ranapana">539b5459979521101fb1b317f053af13</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="Vehicle Booking Management">61516b69df2969105d9a1b5401dd8283</dashboard>
+        <last_updated_on>2022-05-29 16:56:20</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 09:54:57</sys_created_on>
+        <sys_id>65516b6934296910aaf0ffe63cd41f89</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_65516b6934296910aaf0ffe63cd41f89</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 09:55:00</sys_updated_on>
+        <updated_by_user display_value="Isuru Ranapana">539b5459979521101fb1b317f053af13</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>

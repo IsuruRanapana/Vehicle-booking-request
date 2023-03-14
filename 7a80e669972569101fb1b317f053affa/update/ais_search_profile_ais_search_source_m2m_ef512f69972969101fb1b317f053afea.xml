@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Vehicle Booking Management search profile">21516b693029691063464ed927be2789</profile>
+        <search_source display_value="Vehicle Booking Request">a3512f69972969101fb1b317f053afe8</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 09:55:06</sys_created_on>
+        <sys_id>ef512f69972969101fb1b317f053afea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Booking Management search profile.Vehicle Booking Request</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_ef512f69972969101fb1b317f053afea</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 09:55:06</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

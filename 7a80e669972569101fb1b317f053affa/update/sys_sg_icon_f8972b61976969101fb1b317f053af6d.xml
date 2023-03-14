@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Map Pin","Value":"e940","FontColor":"#FF8C3E","FontName":"now-mobile-icons","Shape":"Circle"}</icon>
+        <name>Map Pin</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>IsuruR</sys_created_by>
+        <sys_created_on>2023-03-13 10:22:12</sys_created_on>
+        <sys_id>f8972b61976969101fb1b317f053af6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Map Pin</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_979268_vehicle_0">7a80e669972569101fb1b317f053affa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">7a80e669972569101fb1b317f053affa</sys_scope>
+        <sys_update_name>sys_sg_icon_f8972b61976969101fb1b317f053af6d</sys_update_name>
+        <sys_updated_by>IsuruR</sys_updated_by>
+        <sys_updated_on>2023-03-13 10:22:12</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

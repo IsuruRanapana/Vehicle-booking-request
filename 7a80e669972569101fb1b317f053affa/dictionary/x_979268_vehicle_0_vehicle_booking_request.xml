@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f004fee9976569101fb1b317f053af4d" extends="task" label="Vehicle Booking Request" max_length="40" name="x_979268_vehicle_0_vehicle_booking_request" text_index="true" type="collection">
+        <element label="End date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Vehicle requested" max_length="32" name="vehicle_requested" reference="x_979268_vehicle_0_vehicle" type="reference"/>
+    </element>
+</database>
